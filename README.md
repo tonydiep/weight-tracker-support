@@ -1,4 +1,4 @@
-![weight graphic](https://github.com/tonydiep/weight-tracker-support/blob/master/images/weight-image.jpg)
+![weight graphic](https://github.com/tonydiep/weight-tracker-support/blob/master/images/weight_image.jpg)
 
 # Issue Tracker for Weight
 
