@@ -1,5 +1,6 @@
-![image](https://github.com/tonydiep/weight-tracker-support/images/weight_image.jpg)
-# Issue Tracker for Weight
+[<img src="https://github.com/tonydiep/weight-tracker-support/blob/master/images/weight_image.jpg" height="500px">]
+
+# Issue Tracker for Weight-Tracker App
 
 
 [Report an issue](https://github.com/tonydiep/weight-tracker-support/issues)
