@@ -9,4 +9,4 @@
 
 ![Google Play Listing](https://github.com/tonydiep/weight-tracker-support/blob/master/images/google-play-badge.png)
 
-[<img src="https://github.com/tonydiep/weight-tracker-support/blob/master/images/google-play-badge.png" height="50px">](https://play.google.com/store/apps/details?id=com.tonydiep.weight_release)
+[<img src="https://github.com/tonydiep/weight-tracker-support/blob/master/images/google-play-badge.png" height="80px">](https://play.google.com/store/apps/details?id=com.tonydiep.weight_release)
